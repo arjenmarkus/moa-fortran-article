@@ -1,0 +1,25 @@
+Chunk size:        1
+Number of appends: 100
+Repeated:          100000
+Wall clock (s):  44.1700    
+CPU time (s):    44.1535    
+Chunk size:        16
+Number of appends: 100
+Repeated:          100000
+Wall clock (s):  45.1810    
+CPU time (s):    45.1640    
+Chunk size:        256
+Number of appends: 100
+Repeated:          100000
+Wall clock (s):  49.3720    
+CPU time (s):    49.3620    
+Chunk size:        4096
+Number of appends: 100
+Repeated:          100000
+Wall clock (s):  143.697    
+CPU time (s):    143.679    
+Chunk size:        65536
+Number of appends: 100
+Repeated:          100000
+Wall clock (s):  1429.64    
+CPU time (s):    1427.95    

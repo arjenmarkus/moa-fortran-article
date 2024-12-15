@@ -1,0 +1,6 @@
+Wall clock,CPU time,User time,System time,Maximum memory,Maximum text,Unshared data,Stack space,Minor fault,Major fault,Swaps,Inblock,Outblock,Messages sent,Message received,Signals,Voluntary switch,Involuntary switch,
+1.42490,1.42383,1.35103,.727590E-01,1692,0,0,0,8,0,0,0,2552,0,0,0,4,177,
+.653300,.653283,.625244,.280140E-01,1692,0,0,0,4,0,0,0,760,0,0,0,0,1,
+8.03650,8.03250,5.11193,2.92055,1692,0,0,0,2290029,0,0,0,264,0,0,0,1,13,
+32.3812,32.3801,24.6030,7.77709,5996,0,0,0,6830107,0,0,0,88,0,0,0,0,298,
+28.4564,28.4540,24.9605,3.49346,77252,0,0,0,2516378,0,0,0,16,0,0,0,0,720,
